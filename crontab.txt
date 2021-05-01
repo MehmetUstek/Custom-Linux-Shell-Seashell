@@ -1,0 +1,7 @@
+44 12 * * * DISPLAY=:0.0 /usr/bin/rhythmbox-client --play alarm.mp3
+45 12 * * * DISPLAY=:0.0 /usr/bin/rhythmbox-client --play /home/comp304/mustek17_iilgaz17
+46 12 * * * DISPLAY=:0.0 /usr/bin/rhythmbox-client --play /home/mehmet/comp304/mustek17_iilgaz17
+46 12 * * * DISPLAY=:0.0 /usr/bin/rhythmbox-client --play /home/comp304/mustek17_iilgaz17
+48 12 * * * DISPLAY=:0.0 /usr/bin/rhythmbox-client --play /home/comp304/mustek17_iilgaz17
+48 12 * * * DISPLAY=:0.0 /usr/bin/rhythmbox-client --play /home/comp304/mustek17_iilgaz17/alarm.mp3
+48 12 * * * DISPLAY=:0.0 /usr/bin/rhythmbox-client --play /home/mehmet/comp304/mustek17_iilgaz17/alarm.mp3

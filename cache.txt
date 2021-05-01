@@ -1,0 +1,9 @@
+What is Cache:
+If we simply answer the question of what is cache, it is data stored on a server for future reuse.
+How exactly does cache work?
+When you open a site, all website data is collected in cache, converted into an HTML file and opened in your browser.
+A copy of the cache will be loaded the next time you open the same site. This will help the server load faster and avoid overload.
+Of course, if the website has been updated, this process will start over.
+Two things to keep in mind are firstly that not all websites use caches, and the second is that the cache may expire or be manually deleted. 
+Now that you know what cache is, it matters next. Cache plays an important role in website loading speed . This will make your website perform better as your visitors won't wait long for your website to load.
+Less processing for HTTP requests means less bandwidth will be used. This is a good thing, especially if you have limited resources. 
